@@ -1,10 +1,22 @@
-# PYTHON-dictionary
+# PYTHON-numpy
 
 
+__MODULE NUMPY__
 
-Indexing & slicing
+==> import numpy as np
 
-subseting
+==> Constructors
 
+==> Module random
 
-Boolean Indexing
+==> Attributs
+
+==> dtype
+
+==> Methods
+
+==> Indexing & slicing
+
+==> subseting
+
+==> Boolean Indexing
